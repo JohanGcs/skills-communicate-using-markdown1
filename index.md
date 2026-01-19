@@ -14,3 +14,5 @@ I have just written short test messages
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Acabar curso completo de java
